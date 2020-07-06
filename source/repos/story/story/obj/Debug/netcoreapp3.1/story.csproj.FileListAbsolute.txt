@@ -1,0 +1,13 @@
+C:\Users\charm\source\repos\story\story\obj\Debug\netcoreapp3.1\story.csprojAssemblyReference.cache
+C:\Users\charm\source\repos\story\story\obj\Debug\netcoreapp3.1\story.AssemblyInfoInputs.cache
+C:\Users\charm\source\repos\story\story\obj\Debug\netcoreapp3.1\story.AssemblyInfo.cs
+C:\Users\charm\source\repos\story\story\obj\Debug\netcoreapp3.1\story.csproj.CoreCompileInputs.cache
+C:\Users\charm\source\repos\story\story\bin\Debug\netcoreapp3.1\story.exe
+C:\Users\charm\source\repos\story\story\bin\Debug\netcoreapp3.1\story.deps.json
+C:\Users\charm\source\repos\story\story\bin\Debug\netcoreapp3.1\story.runtimeconfig.json
+C:\Users\charm\source\repos\story\story\bin\Debug\netcoreapp3.1\story.runtimeconfig.dev.json
+C:\Users\charm\source\repos\story\story\bin\Debug\netcoreapp3.1\story.dll
+C:\Users\charm\source\repos\story\story\bin\Debug\netcoreapp3.1\story.pdb
+C:\Users\charm\source\repos\story\story\obj\Debug\netcoreapp3.1\story.dll
+C:\Users\charm\source\repos\story\story\obj\Debug\netcoreapp3.1\story.pdb
+C:\Users\charm\source\repos\story\story\obj\Debug\netcoreapp3.1\story.genruntimeconfig.cache
